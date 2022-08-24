@@ -1,0 +1,42 @@
+                          OOPS
+
+OOP-object oriented programming.
+
+Object- Instance of Class
+Class- Template for objects
+funcions in classes are called methods.
+
+OOP Principals
+---------------
+Encapsulation
+Abstraction
+Inheritance
+Polymorphism
+---------------
+
+*Encapsulation:
+grouping data with method in a class( reason: prevennt direct access from outside)
+
+Acccess through method: Getter(retrieve info),Setter(modify info with permission)
+
+*Abstraction:
+only show essential details. hide all other details.
+Function or method overloading
+how abstraction done?
+
+Interface                            Implementation
+(shown outside class)              (hidden from outside)
+
+*Inheritance:
+Allows classes to use data from another class.(used in class within a class)
+sub class inherits from super class.
+Access modifiers- changes where class data can be accessed from
+1)public- all sub classes can use it
+2)private-sub classes cannot use it
+3)protected- choosen classes can use it
+
+*Polymorphism:
+Ability of methods to take more than one form
+1)Dynamic- Occurs during runtime. both superclass & sub class have ssame method
+2)Static- occurs during compile time. many methods with same name and diff arguments
+
