@@ -40,4 +40,5 @@ Ability of methods to take more than one form
 1)Dynamic- Occurs during runtime. both superclass & sub class have ssame method
 2)Static- occurs during compile time. many methods with same name and diff arguments
 
--------------------------------GITHUB CHECK----------------------------------------
+-------------------------------GITHUB CHECK----------------------------------------4
+part branch
